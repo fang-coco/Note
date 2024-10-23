@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build",
+  "command": "clang  -I/Users/fanglee/Notes/LearnOpenGL/inc -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/System/Library/Frameworks -std=gnu17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/GLAD.dir/src/glad.c.o -c /Users/fanglee/Notes/LearnOpenGL/src/glad.c",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/src/glad.c",
+  "output": "CMakeFiles/GLAD.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build",
+  "command": "clang  -I/Users/fanglee/Notes/LearnOpenGL/inc -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/System/Library/Frameworks -std=gnu17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/STB_IMAGE.dir/src/stb_image.c.o -c /Users/fanglee/Notes/LearnOpenGL/src/stb_image.c",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/src/stb_image.c",
+  "output": "CMakeFiles/STB_IMAGE.dir/src/stb_image.c.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/inc -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/System/Library/Frameworks -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/hello3DSpace.dir/src/hello3DSpace.cc.o -c /Users/fanglee/Notes/LearnOpenGL/src/hello3DSpace.cc",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/src/hello3DSpace.cc",
+  "output": "CMakeFiles/hello3DSpace.dir/src/hello3DSpace.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/imgui_demo.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_demo.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_demo.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/imgui_draw.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_draw.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_draw.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/imgui.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/imgui.cpp.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/imgui_tables.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_tables.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_tables.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/imgui_widgets.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_widgets.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/imgui_widgets.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/backends/imgui_impl_opengl3.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/LearnOpenGL/build/third_party/imgui",
+  "command": "clang++  -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/. -I/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends -I/opt/homebrew/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/IMGUI.dir/backends/imgui_impl_glfw.cpp.o -c /Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/Users/fanglee/Notes/LearnOpenGL/third_party/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "third_party/imgui/CMakeFiles/IMGUI.dir/backends/imgui_impl_glfw.cpp.o"
+}
+]
