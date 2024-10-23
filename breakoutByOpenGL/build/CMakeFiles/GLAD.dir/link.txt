@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc /Users/fanglee/Notes/breakoutByOpenGL/lib/libGLAD.a CMakeFiles/GLAD.dir/ext/glad/glad.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib /Users/fanglee/Notes/breakoutByOpenGL/lib/libGLAD.a

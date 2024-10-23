@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc /Users/fanglee/Notes/breakoutByOpenGL/lib/libSTB_IMAGE.a CMakeFiles/STB_IMAGE.dir/ext/stb_image/stb_image.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib /Users/fanglee/Notes/breakoutByOpenGL/lib/libSTB_IMAGE.a

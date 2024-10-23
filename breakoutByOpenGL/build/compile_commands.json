@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/GLAD.dir/ext/glad/glad.c.o -c /Users/fanglee/Notes/breakoutByOpenGL/ext/glad/glad.c",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/ext/glad/glad.c",
+  "output": "CMakeFiles/GLAD.dir/ext/glad/glad.c.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/STB_IMAGE.dir/ext/stb_image/stb_image.c.o -c /Users/fanglee/Notes/breakoutByOpenGL/ext/stb_image/stb_image.c",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/ext/stb_image/stb_image.c",
+  "output": "CMakeFiles/STB_IMAGE.dir/ext/stb_image/stb_image.c.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/audioPlayer.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/audioPlayer.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/audioPlayer.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/audioPlayer.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/ballObject.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/ballObject.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/ballObject.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/ballObject.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/breakout.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/breakout.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/breakout.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/breakout.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/game.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/game.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/game.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/game.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/gameLevel.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/gameLevel.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/gameLevel.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/gameLevel.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/gameObject.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/gameObject.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/gameObject.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/gameObject.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/particleGenerator.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/particleGenerator.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/particleGenerator.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/particleGenerator.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/postProcessor.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/postProcessor.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/postProcessor.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/postProcessor.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/resourceManager.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/resourceManager.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/resourceManager.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/resourceManager.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/shader.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/shader.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/shader.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/shader.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/spriteRenderer.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/spriteRenderer.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/spriteRenderer.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/spriteRenderer.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/textRenderer.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/textRenderer.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/textRenderer.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/textRenderer.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/breakoutByOpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/fanglee/Notes/breakoutByOpenGL/inc -I/Users/fanglee/Notes/breakoutByOpenGL/ext -I/opt/homebrew/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/Cellar/ffmpeg/7.1/include -I/opt/homebrew/Cellar/openal-soft/1.23.1/include -I/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/BreakOut.dir/src/texture.cc.o -c /Users/fanglee/Notes/breakoutByOpenGL/src/texture.cc",
+  "file": "/Users/fanglee/Notes/breakoutByOpenGL/src/texture.cc",
+  "output": "CMakeFiles/BreakOut.dir/src/texture.cc.o"
+}
+]

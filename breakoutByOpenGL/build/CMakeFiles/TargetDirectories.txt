@@ -1,0 +1,5 @@
+/Users/fanglee/Notes/breakoutByOpenGL/build/CMakeFiles/GLAD.dir
+/Users/fanglee/Notes/breakoutByOpenGL/build/CMakeFiles/STB_IMAGE.dir
+/Users/fanglee/Notes/breakoutByOpenGL/build/CMakeFiles/BreakOut.dir
+/Users/fanglee/Notes/breakoutByOpenGL/build/CMakeFiles/edit_cache.dir
+/Users/fanglee/Notes/breakoutByOpenGL/build/CMakeFiles/rebuild_cache.dir
