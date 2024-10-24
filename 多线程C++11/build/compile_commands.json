@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/fanglee/Notes/多线程C++11/build",
+  "command": "clang++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Chrono.dir/chrono.cc.o -c /Users/fanglee/Notes/多线程C++11/chrono.cc",
+  "file": "/Users/fanglee/Notes/多线程C++11/chrono.cc",
+  "output": "CMakeFiles/Chrono.dir/chrono.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/多线程C++11/build",
+  "command": "clang++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Thread.dir/thread.cc.o -c /Users/fanglee/Notes/多线程C++11/thread.cc",
+  "file": "/Users/fanglee/Notes/多线程C++11/thread.cc",
+  "output": "CMakeFiles/Thread.dir/thread.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/多线程C++11/build",
+  "command": "clang++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Condition.dir/condition_variable.cc.o -c /Users/fanglee/Notes/多线程C++11/condition_variable.cc",
+  "file": "/Users/fanglee/Notes/多线程C++11/condition_variable.cc",
+  "output": "CMakeFiles/Condition.dir/condition_variable.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/多线程C++11/build",
+  "command": "clang++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/Atomic.dir/atomic.cc.o -c /Users/fanglee/Notes/多线程C++11/atomic.cc",
+  "file": "/Users/fanglee/Notes/多线程C++11/atomic.cc",
+  "output": "CMakeFiles/Atomic.dir/atomic.cc.o"
+},
+{
+  "directory": "/Users/fanglee/Notes/多线程C++11/build",
+  "command": "clang++   -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.6 -o CMakeFiles/ThreadPool.dir/threadpool.cc.o -c /Users/fanglee/Notes/多线程C++11/threadpool.cc",
+  "file": "/Users/fanglee/Notes/多线程C++11/threadpool.cc",
+  "output": "CMakeFiles/ThreadPool.dir/threadpool.cc.o"
+}
+]
